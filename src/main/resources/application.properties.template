@@ -1,6 +1,6 @@
 # Configuration file
 # key = value
-quarkus.cassandra.cloud.secure-connect-bundle=/home/tato/Downloads/secure-connect-serverlessdb.zip
+quarkus.cassandra.cloud.secure-connect-bundle=astraforme/secure-connect-free-db.zip
 # Authentication
 quarkus.cassandra.auth.username=token
-quarkus.cassandra.auth.password=AstraCS:REPLACE_ME:REPLACE_ME
+quarkus.cassandra.auth.password=AstraCS:LvclCTZdiZXTagHXtvwUpefh:fcad564fa871c8a19a96488808d6cb27ada005739bb123be0f4d6b64021d6bba
